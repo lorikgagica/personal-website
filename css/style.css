@@ -1,0 +1,8 @@
+.navbar {
+    font-size: 18px;
+    background-image: linear-gradient(260deg, #A71814 0%, #447BBE 100%); 
+    border: 0px solid rgba(0, 0, 0, 0.2);
+    padding-bottom: 10px;
+    font-weight: bold;
+    box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.363), 1px 1px 2px 1px rgba(0, 0, 0, 0.493);
+}
