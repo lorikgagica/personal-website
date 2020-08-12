@@ -1,3 +1,13 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+  
 .navbar {
     font-size: 18px;
     background-image: linear-gradient(260deg, #A71814 0%, #447BBE 100%); 
